@@ -6,7 +6,5 @@ class User
     @last_name
   end
   
-  def new 
-    @@knowledge = []
-  end
+
 end
