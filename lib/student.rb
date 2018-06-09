@@ -1,4 +1,4 @@
-require
+require_relative ""
 class Student 
 
 end
