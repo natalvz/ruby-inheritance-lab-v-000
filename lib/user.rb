@@ -4,8 +4,8 @@ class User
   def initialize(name)
    @name = name
    name.split(" ")
-   first_name << name[0] 
-   last_name << name[1] 
+   @first_name << name[0] 
+   @last_name << name[1] 
   end
   
 end
