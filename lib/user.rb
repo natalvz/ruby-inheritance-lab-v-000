@@ -5,7 +5,7 @@ class User
    @name = name
    name.split(" ")
    first_name << name[0] 
-   last_name << name[0] 
+   last_name << name[1] 
   end
   
 end
